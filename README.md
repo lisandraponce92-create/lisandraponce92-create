@@ -15,9 +15,46 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </di
 
-<div>
-  <a href="https://github.com/lisandraponce92-create">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandraponce92-create&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandraponce92-create&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<h1 align="center">Hola 👋, soy Lisandra</h1>
+<h3 align="center">Apasionada por la tecnología 💻✨</h3>
+
+<p align="center">
+  <a href="https://beacons.ai/lisandraponce92-create">🌐 Mis redes</a>
+</p>
+
+---
+
+### 🚀 Sobre mí
+- 💻 Aprendiendo desarrollo web  
+- 🌱 Siempre mejorando mis habilidades  
+- 🎯 Objetivo: Convertirme en desarrolladora profesional  
+
+---
+
+### 🛠️ Tecnologías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+---
+
+### 📊 Estadísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandraponce92-create&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandraponce92-create&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+---
+
+### 🔥 Racha de contribuciones
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lisandraponce92-create&theme=dracula&hide_border=true"/>
+</div>
+
+---
+
+### ✨ Frase
+<p align="center">
+  "Nunca dejes de aprender 🚀
+  ❤️HAS DE TU VIDA UN SUENO Y DE TU SUENO UNA REALIDAD❤️
+</p>
