@@ -58,3 +58,5 @@
   "Nunca dejes de aprender 🚀
   ❤️HAS DE TU VIDA UN SUENO Y DE TU SUENO UNA REALIDAD❤️
 </p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
