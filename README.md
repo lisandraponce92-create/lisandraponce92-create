@@ -57,6 +57,6 @@
 <p align="center">
   "Nunca dejes de aprender 🚀
  
-  ❤️FAÇA DA SUA VIDA UM SONHO E DOSEU SONHO UMA REALIDDE❤️
+  ❤️FAÇA DA SUA VIDA UM SONHO E DO SEU SONHO UMA REALIDDE❤️
 </p>
 
